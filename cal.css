@@ -1,0 +1,45 @@
+js.css
+html,body{
+    height:100%;
+    width:98%;
+    font-family:'Gill sans',sans-serif;
+    background-color: black;
+    border: 5px solid rgb(29, 211, 235);
+    border-radius: 15px;
+
+}
+
+
+.button{
+    width:66px;
+    padding:20px;
+    margin: 0 3px;
+    border:5px solid rgb(13, 167, 164);
+    border-radius:30px;
+    cursor:pointer;
+
+}
+
+.row{
+    margin:8px 0;
+}
+
+.row input{
+    width:291px;
+    font-size:19px;
+    margin:0;
+    padding:10px 0px;
+    border:5px solid rgb(44, 183, 181);
+    border-radius:15px;
+  }
+
+  footer {
+    text-align: center;
+    background-color: #0aaa6d;
+    padding: 10px;
+    font-size: 4rem;
+    background-image: url(G:/Internship/LGMVIP/LGMVIP-Web-Task-1-main/pune.jpeg); 
+    background-size: cover;
+   position:relative; 
+   
+}
